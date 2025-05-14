@@ -7,7 +7,7 @@
 ### 🌍
 
 - Vietnamese 
-- 🇨🇳 Chinese
+- Chinese
 - English
 - Japanese
 
